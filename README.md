@@ -39,5 +39,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hostlity.git
+   git clone https://github.com/Vikram-Kumar-Parmar/Desktop-Application-Hostel-Wise.git
    cd hostlity
