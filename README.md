@@ -55,16 +55,17 @@
 
 ## 📌 Future Scope
 
-⭐ User reviews & ratings
-🌐 Web-based version
-📍 Map integration for hostels
-📊 Analytics for hostel owners
+- ⭐ User reviews & ratings
+- 🌐 Web-based version
+- 📍 Map integration for hostels
+- 📊 Analytics for hostel owners
 
 ---
 
 ## 👨‍💻 Developer
 Vikram Kumar
-BS Data Science @ FAST NUCES Islamabad
-📧 Email: sirvkparmar@gmail.com
-🌐 Portfolio: https://myportfolio-vikram-kumar-parmar.vercel.app/
-📫 LinkedIn: https://www.linkedin.com/in/vikramkumer/
+
+- BS Data Science @ FAST NUCES Islamabad
+- 📧 Email: sirvkparmar@gmail.com
+- 🌐 Portfolio: https://myportfolio-vikram-kumar-parmar.vercel.app/
+- 📫 LinkedIn: https://www.linkedin.com/in/vikramkumer/
